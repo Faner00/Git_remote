@@ -46,3 +46,8 @@ GUI is for manual creating
 		-saves the changes that you've made to the files in the 
 staging are to the repository.  The "message" describes what changes were 
 made in this commit
+*	git log
+		- displays all the commits that were made
+
+*	git log --oneline
+		- condensed version of git log
